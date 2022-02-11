@@ -11,7 +11,7 @@ Besides programming, I enjoy photography.
 - 🌱 I’m currently working as data engineering intern at wavicle data solutions LLC; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: pritam.soni4949@gmail.com;
-- 📝[Resume](https://drive.google.com/drive/u/0/folders/1syu5yYSnVr3pMY6XrFqBroiTC-vqrm7k)
+- 📝[Resume](https://drive.google.com/file/d/1ObQsBZNSJ8fN7Y5WHYP0eMNpjD4kxnag/view?usp=sharing)
 
 
 **Languages and Tools:** 
